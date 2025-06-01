@@ -34,10 +34,10 @@
 
 ---
 
-## 📊 Meu terminal de atividades
+## 📸 Meu cartão de apresentação
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Souza-ts&theme=github-compact" />
+  <img src="https://cdn.discordapp.com/attachments/1363590745398706226/1378879135375691796/87c7412a45b0f5a29a0cff0002771314.jpg?ex=683e34c4&is=683ce344&hm=bc0a3f51c63bb51efd484850f7c45f3a7b21499e7385fc2ef45e2b82057f72a7&" alt="Minha Foto" width="300" style="border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
 </p>
 
 ---
