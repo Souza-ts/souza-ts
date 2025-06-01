@@ -34,9 +34,11 @@
 
 ---
 
-## 📊 Stats da Cobrinha
+## 📊 Meu terminal de atividades
 
-![Snake animation](https://github.com/Souza-ts/Souza-ts/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Souza-ts&theme=github-compact" />
+</p>
 
 ---
 
